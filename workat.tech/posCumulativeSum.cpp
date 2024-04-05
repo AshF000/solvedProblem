@@ -1,4 +1,4 @@
-////solved part
+//solved part
 vector<int> getPositiveCumulativeSum(vector<int> &arr) {
 	int n=arr.size(),l=0,sum=0;
 
